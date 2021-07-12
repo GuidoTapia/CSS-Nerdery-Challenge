@@ -24,6 +24,7 @@
   text-align: center;
 }
 .percentage-svg {
+  margin-top: 3%;
   position: relative;
   width: 200px;
   height: 200px;
@@ -62,7 +63,7 @@
   stroke-dashoffset: -487; /*176+11*/
 }
 .documents-container {
-  margin: 7% 0 7% 0;
+  margin: 10% 0 10% 0;
   display: grid;
   height: 200px;
   grid-template-rows: 1fr 1fr 1fr 1fr;
@@ -109,7 +110,7 @@
   border-radius: 18px;
   display: grid;
   float: none;
-  height: 180px;
+  height: 220px;
   padding: 5% 20% 5% 20%;
   grid-template-rows: 45% auto 15% 15% 20%;
 }
